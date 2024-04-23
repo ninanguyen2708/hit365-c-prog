@@ -1,0 +1,11 @@
+﻿  code.c
+D:\A_Uni\Year2\C Prog\assessment1\ass1\Project1\code.c(27,16): warning C4244: 'initializing': conversion from 'double' to 'const ll', possible loss of data
+D:\A_Uni\Year2\C Prog\assessment1\ass1\Project1\code.c(67,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\A_Uni\Year2\C Prog\assessment1\ass1\Project1\code.c(67,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\A_Uni\Year2\C Prog\assessment1\ass1\Project1\code.c(67,11):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\A_Uni\Year2\C Prog\assessment1\ass1\Project1\code.c(67,11):
+  this argument is used as a buffer size
+  
+  Project1.vcxproj -> D:\A_Uni\Year2\C Prog\assessment1\ass1\Project1\x64\Debug\Project1.exe
